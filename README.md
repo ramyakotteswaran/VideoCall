@@ -13,7 +13,7 @@
 
 ```bash
 git clone https://github.com/ramyakotteswaran/VideoCall.git
-cd videolify
+cd VideoCall
 ```
 ## Install dependencies
 
